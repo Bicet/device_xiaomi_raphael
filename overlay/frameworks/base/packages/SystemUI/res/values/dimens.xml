@@ -19,4 +19,12 @@
         orientation. If zero, the value of rounded_corner_radius is used. -->
     <dimen name="rounded_corner_content_padding">12dp</dimen>
     <dimen name="system_icons_keyguard_padding_end">4dp</dimen>
+
+    <dimen name="config_bottomDialogCornerRadius">16.0dip</dimen>
+	<dimen name="config_buttonCornerRadius">4.0dip</dimen>
+	<dimen name="config_dialogCornerRadius">8.0dip</dimen>
+	<item type="dimen" name="config_highResTaskSnapshotScale">0.8</item>
+	<dimen name="config_progressBarCornerRadius">1000.0dip</dimen>
+	<dimen name="status_bar_height_portrait">34.0dip</dimen>
+	<dimen name="status_bar_height_landscape">32.0dip</dimen>
 </resources>

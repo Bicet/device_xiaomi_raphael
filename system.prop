@@ -1,4 +1,4 @@
-# ART
+frat# ART
 dalvik.vm.boot-dex2oat-cpu-set=0,1,2,3,4,5,6,7
 dalvik.vm.boot-dex2oat-threads=8
 dalvik.vm.dex2oat-cpu-set=0,1,2,3,4,5,6,7
@@ -36,7 +36,7 @@ persist.vendor.dpm.nsrm.bkg.evt=3955
 ro.sf.lcd_density=440
 
 # Google keyboard
-ro.com.google.ime.height_ratio=1.2
+#ro.com.google.ime.height_ratio=1.2
 
 # Graphics
 ro.surface_flinger.has_wide_color_display=true
